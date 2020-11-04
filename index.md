@@ -9,7 +9,7 @@ Welcome to this community driven project to list all of Microsoft's portals in o
 
 | Portal Name                               | URL                                                                                                                                                      |
 | ------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Microsoft 365 Admin Portal                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           |
+| 😘😘😘😘😘😘😘😘                | [https://admin.microsoft.com/](https://admin.microsoft.com/){:target="_blank"}                                                                           |
 | Microsoft 365 Compliance                  | [https://compliance.microsoft.com/](https://compliance.microsoft.com/){:target="_blank"}                                                                 |
 | Microsoft Endpoint Manager Admin Console  | [https://endpoint.microsoft.com/](https://endpoint.microsoft.com/){:target="_blank"}                                                                     |
 | Exchange Admin Center (new)                     | [https://admin.exchange.microsoft.com/](https://admin.exchange.microsoft.com/){:target="_blank"}                                                         |
