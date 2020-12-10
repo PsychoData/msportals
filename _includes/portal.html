@@ -1,13 +1,4 @@
----
-layout: page
-title: Administrator Portals
----
-
-Welcome to this community driven project to list all of Microsoft's portals in one place.
-The 🔁 icon is an aka.ms link - a Microsoft owned domain used for shortlinks.
-The 🏢 icon is for Azure Government cloud links - usually ending in '.us'.
-
-{% for group in site.data.portals.adminportals %}
+{% for group in site.data.portals.[include.portal] %}
 
 <div class="portal-group">
     <h2>{{ group.groupName }}</h2>
